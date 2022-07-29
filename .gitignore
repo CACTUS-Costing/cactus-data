@@ -1,3 +1,7 @@
+data/*.json
+*.csv
+.DS_Store
+
 # Logs
 logs
 *.log
